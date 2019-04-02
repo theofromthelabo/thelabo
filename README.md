@@ -1,10 +1,12 @@
 # The Labo - Official Website
 
-**We like to do**
+## We like to do
 
-Build digital solutions from a smart and efficent mix of Online Strategy, Growth Marketing & Digital Production
+Build digital solutions from a smart and efficent mix of Online Strategy, Growth Marketing & Digital Production 
 
-**with 3 core values to carry them out**
+with one objective: **add value**
+
+## with 3 core values to carry them out
 
 - Think first
 - Excecute smartly
