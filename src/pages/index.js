@@ -85,7 +85,7 @@ class HomeIndex extends React.Component {
                     <section id="four">
                         <div className="inner">
                             <header className="major">
-                                <h2>Act collectively </h2>
+                                <h2>Act collectively</h2>
                             </header>
                             <p>
                                 NO need the best skills individually<br />

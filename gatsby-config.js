@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: "Online Strategy, Growth Hacking & Digital Production | Théo Courtial",
+    title: "Online Strategy, Growth Marketing & Digital Production | Théo Courtial",
     description: "Let's build solutions from a smart and efficent mix of Online Strategy, Growth Hacking & Digital Production"
   },
   plugins: [
