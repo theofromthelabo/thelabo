@@ -1,4 +1,4 @@
-# The Labo - Official Website
+# The Labo - Digital problem solver
 
 ## We like to do
 
