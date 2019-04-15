@@ -1,7 +1,5 @@
 import React from 'react'
 
-import pic03 from '../assets/images/thelabo-v2.png'
-
 const Contact = (props) => (
     <section id="contact">
         <div className="inner">
