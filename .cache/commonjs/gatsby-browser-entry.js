@@ -20,14 +20,11 @@ exports.navigate = _gatsbyLink.navigate;
 exports.push = _gatsbyLink.push;
 exports.replace = _gatsbyLink.replace;
 exports.navigateTo = _gatsbyLink.navigateTo;
+exports.parsePath = _gatsbyLink.parsePath;
 
 var _publicPageRenderer = _interopRequireDefault(require("./public-page-renderer"));
 
 exports.PageRenderer = _publicPageRenderer.default;
-
-var _parsePath = _interopRequireDefault(require("./parse-path"));
-
-exports.parsePath = _parsePath.default;
 
 const StaticQueryContext = _react.default.createContext({});
 

@@ -44,7 +44,7 @@ const Contact = (props) => (
                     <div className="contact-method">
                         <span className="icon alt fa-home"></span>
                         <h3>WeChat</h3>
-                        <span className="image fit"><img src={pic03} alt="" /></span>
+                        <span>ID: Theo_Courtial</span>
                     </div>
                 </section>
             </section>

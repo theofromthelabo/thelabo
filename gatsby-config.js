@@ -1,3 +1,9 @@
+const dotenv = require('dotenv');
+
+if (process.env.NODE_ENV !== 'production') {
+  dotenv.config(); 
+};
+
 module.exports = {
   siteMetadata: {
     title: "Online Strategy, Growth Marketing & Digital Production | Théo Courtial",
@@ -16,6 +22,13 @@ module.exports = {
         display: `standalone`,
         icon: 'src/assets/images/theocourtial-favicon.png', // This path is relative to the root of the site.
         include_favicon: true, 
+      },
+    },
+    {
+      resolve: `gatsby-source-contentful`,
+      options: {
+        spaceId: 'ffq2kwkzfxcd',
+        accessToken: process.env.CONTENTFUL_ACCESS_TOKEN,
       },
     },
     {

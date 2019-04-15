@@ -1,4 +1,5 @@
 import React from 'react'
+import { graphql } from 'gatsby'
 
 const Banner = (props) => (
     <section id="banner" className="major">
@@ -15,3 +16,12 @@ const Banner = (props) => (
 )
 
 export default Banner
+
+export const pageQuery = graphql`
+    query {
+        contentfulHomepageText{
+            id
+            tagline  
+        }
+    }
+`
