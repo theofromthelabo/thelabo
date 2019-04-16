@@ -50,5 +50,6 @@ module.exports = {
     // },
     'gatsby-plugin-sass',
     'gatsby-plugin-offline',
+    `@contentful/gatsby-transformer-contentful-richtext`,
   ],
 }

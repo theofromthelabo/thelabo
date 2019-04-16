@@ -20,6 +20,11 @@
         "path": "/dev-404-page/"
     },
     {
+        "componentChunkName": "component---src-templates-index-contentful-js",
+        "jsonName": "ef-148971-6-ab-0-5-ccb-990-d-cb-9917907-ef-7-661",
+        "path": "/ef148971-6ab0-5ccb-990d-cb9917907ef7/"
+    },
+    {
         "componentChunkName": "component---src-pages-elements-js",
         "jsonName": "elements-835",
         "path": "/elements/"
